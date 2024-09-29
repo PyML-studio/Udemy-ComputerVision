@@ -1,0 +1,27 @@
+ipython
+jupyterlab
+matplotlib
+seaborn
+pandas
+scikit-learn
+scipy
+mlflow
+opencv-python
+shapely
+geopandas
+pycocotools
+fiftyone
+supervision
+kaggle
+pillow
+tiler
+
+# DeepLearning & ComputerVision
+albumentations
+segmentation-models-pytorch
+
+
+pydantic
+pytest-cov
+pytest_steps
+
