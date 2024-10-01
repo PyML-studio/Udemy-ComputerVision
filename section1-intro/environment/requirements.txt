@@ -15,6 +15,7 @@ supervision
 kaggle
 pillow
 tiler
+loguru
 
 # DeepLearning & ComputerVision
 albumentations
