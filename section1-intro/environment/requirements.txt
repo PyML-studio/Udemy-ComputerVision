@@ -16,6 +16,7 @@ kaggle
 pillow
 tiler
 loguru
+ipywidgets
 
 # DeepLearning & ComputerVision
 albumentations
